@@ -1,1 +1,4 @@
-Sinatra app for Todo webapp
+Features:
+	-can create multiple lists, each list can have multiple todo items
+	-can mark individual items as completed or mark a whole list as completed
+	-can edit a list's name, delete a list, add and delete todo items
